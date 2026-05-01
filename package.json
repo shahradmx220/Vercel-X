@@ -1,0 +1,7 @@
+{
+  "name": "v-x-r",
+  "version": "1.0.0",
+  "description": "Edge-runtime api test",
+  "private": true,
+  "license": "MIT"
+}
